@@ -1,0 +1,893 @@
+{
+    "3520112345678": {
+        "name": "Ayesha Khan",
+        "age": 19,
+        "gender": "Female",
+        "city": "Karachi",
+        "roll no": "Stf-101",
+        "major": "Computer Science",
+        "gpa": 3.8
+    },
+    "3130398765432": {
+        "name": "Muhammad Usman",
+        "age": 20,
+        "gender": "Male",
+        "city": "Faisalabad",
+        "roll no": "Stf-204",
+        "major": "Electrical Engineering",
+        "gpa": 3.5
+    },
+    "3740511223344": {
+        "name": "Fatima Zahra",
+        "age": 18,
+        "gender": "Female",
+        "city": "Rawalpindi",
+        "roll no": "Stf-112",
+        "major": "Business Administration",
+        "gpa": 3.9
+    },
+    "3410155667788": {
+        "name": "Zain Malik",
+        "age": 21,
+        "gender": "Male",
+        "city": "Gujranwala",
+        "roll no": "Stf-309",
+        "major": "Mechanical Engineering",
+        "gpa": 2.9
+    },
+    "1730199887766": {
+        "name": "Sana Ahmed",
+        "age": 19,
+        "gender": "Female",
+        "city": "Peshawar",
+        "roll no": "Stf-415",
+        "major": "Economics",
+        "gpa": 3.6
+    },
+    "3630244332211": {
+        "name": "Bilal Sheikh",
+        "age": 20,
+        "gender": "Male",
+        "city": "Multan",
+        "roll no": "Stf-522",
+        "major": "Civil Engineering",
+        "gpa": 3.1
+    },
+    "4130477889900": {
+        "name": "Maryam Nawaz",
+        "age": 18,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "roll no": "Stf-618",
+        "major": "Psychology",
+        "gpa": 3.7
+    },
+    "6110112233445": {
+        "name": "Hamza Raza",
+        "age": 22,
+        "gender": "Male",
+        "city": "Islamabad",
+        "roll no": "Stf-731",
+        "major": "Software Engineering",
+        "gpa": 3.4
+    },
+    "5440055443322": {
+        "name": "Iqra Tariq",
+        "age": 19,
+        "gender": "Female",
+        "city": "Quetta",
+        "roll no": "Stf-840",
+        "major": "English Literature",
+        "gpa": 3.3
+    },
+    "3120266778899": {
+        "name": "Omer Farooq",
+        "age": 20,
+        "gender": "Male",
+        "city": "Bahawalpur",
+        "roll no": "Stf-155",
+        "major": "Mathematics",
+        "gpa": 2.8
+    },
+    "3840322110099": {
+        "name": "Hira Habib",
+        "age": 18,
+        "gender": "Female",
+        "city": "Sargodha",
+        "roll no": "Stf-266",
+        "major": "Chemistry",
+        "gpa": 3.9
+    },
+    "3460388776655": {
+        "name": "Saad Siddiqui",
+        "age": 21,
+        "gender": "Male",
+        "city": "Sialkot",
+        "roll no": "Stf-377",
+        "major": "Physics",
+        "gpa": 3.0
+    },
+    "4550244556677": {
+        "name": "Laiba Noor",
+        "age": 19,
+        "gender": "Female",
+        "city": "Sukkur",
+        "roll no": "Stf-488",
+        "major": "Architecture",
+        "gpa": 3.5
+    },
+    "4320311223344": {
+        "name": "Shahzaib Khan",
+        "age": 20,
+        "gender": "Male",
+        "city": "Larkana",
+        "roll no": "Stf-599",
+        "major": "Accounting And Finance",
+        "gpa": 3.1
+    },
+    "3520288990011": {
+        "name": "Anum Shah",
+        "age": 18,
+        "gender": "Female",
+        "city": "Lahore",
+        "roll no": "Stf-102",
+        "major": "Biotechnology",
+        "gpa": 3.8
+    },
+    "4210133445566": {
+        "name": "Daniyal Abbasi",
+        "age": 22,
+        "gender": "Male",
+        "city": "Karachi",
+        "roll no": "Stf-213",
+        "major": "Data Science",
+        "gpa": 3.6
+    },
+    "3310066778899": {
+        "name": "Zoya Akhtar",
+        "age": 19,
+        "gender": "Female",
+        "city": "Faisalabad",
+        "roll no": "Stf-324",
+        "major": "Environmental Science",
+        "gpa": 3.2
+    },
+    "3720199001122": {
+        "name": "Fahad Mustafa",
+        "age": 20,
+        "gender": "Male",
+        "city": "Rawalpindi",
+        "roll no": "Stf-435",
+        "major": "Mass Communication",
+        "gpa": 2.9
+    },
+    "3450122334455": {
+        "name": "Nida Yasir",
+        "age": 18,
+        "gender": "Female",
+        "city": "Gujranwala",
+        "roll no": "Stf-546",
+        "major": "Fashion Design",
+        "gpa": 3.4
+    },
+    "1710155667788": {
+        "name": "Asad Ullah",
+        "age": 21,
+        "gender": "Male",
+        "city": "Peshawar",
+        "roll no": "Stf-657",
+        "major": "Geology",
+        "gpa": 3.3
+    },
+    "3610388990011": {
+        "name": "Mahnoor Baloch",
+        "age": 19,
+        "gender": "Female",
+        "city": "Multan",
+        "roll no": "Stf-768",
+        "major": "Sociology",
+        "gpa": 3.7
+    },
+    "4120144556677": {
+        "name": "Waqas Qureshi",
+        "age": 20,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "roll no": "Stf-879",
+        "major": "Cyber Security",
+        "gpa": 3.5
+    },
+    "6110277889900": {
+        "name": "Khadija Bibi",
+        "age": 18,
+        "gender": "Female",
+        "city": "Islamabad",
+        "roll no": "Stf-980",
+        "major": "International Relations",
+        "gpa": 3.9
+    },
+    "5430111223344": {
+        "name": "Tariq Jameel",
+        "age": 22,
+        "gender": "Male",
+        "city": "Quetta",
+        "roll no": "Stf-121",
+        "major": "Islamic Studies",
+        "gpa": 3.1
+    },
+    "3110133445566": {
+        "name": "Areeba Habib",
+        "age": 19,
+        "gender": "Female",
+        "city": "Bahawalpur",
+        "roll no": "Stf-232",
+        "major": "Microbiology",
+        "gpa": 3.6
+    },
+    "3830255667788": {
+        "name": "Haris Rauf",
+        "age": 20,
+        "gender": "Male",
+        "city": "Sargodha",
+        "roll no": "Stf-343",
+        "major": "Sports Science",
+        "gpa": 2.7
+    },
+    "3420177889900": {
+        "name": "Mehwish Hayat",
+        "age": 18,
+        "gender": "Female",
+        "city": "Sialkot",
+        "roll no": "Stf-454",
+        "major": "Fine Arts",
+        "gpa": 3.8
+    },
+    "4520199001122": {
+        "name": "Ahsan Khan",
+        "age": 21,
+        "gender": "Male",
+        "city": "Sukkur",
+        "roll no": "Stf-565",
+        "major": "Marketing",
+        "gpa": 3.0
+    },
+    "4310122334455": {
+        "name": "Nimra Bucha",
+        "age": 19,
+        "gender": "Female",
+        "city": "Larkana",
+        "roll no": "Stf-676",
+        "major": "Botany",
+        "gpa": 3.3
+    },
+    "3520155667788": {
+        "name": "Usama Mir",
+        "age": 20,
+        "gender": "Male",
+        "city": "Lahore",
+        "roll no": "Stf-787",
+        "major": "Statistics",
+        "gpa": 3.2
+    },
+    "4220188990011": {
+        "name": "Kinza Hashmi",
+        "age": 18,
+        "gender": "Female",
+        "city": "Karachi",
+        "roll no": "Stf-898",
+        "major": "Media Studies",
+        "gpa": 3.7
+    },
+    "3320111223344": {
+        "name": "Sheraz Uppal",
+        "age": 22,
+        "gender": "Male",
+        "city": "Faisalabad",
+        "roll no": "Stf-909",
+        "major": "Musicology",
+        "gpa": 2.8
+    },
+    "3710144556677": {
+        "name": "Yumna Zaidi",
+        "age": 19,
+        "gender": "Female",
+        "city": "Rawalpindi",
+        "roll no": "Stf-131",
+        "major": "Drama And Theater",
+        "gpa": 3.9
+    },
+    "3430177889900": {
+        "name": "Ahmad Shah",
+        "age": 20,
+        "gender": "Male",
+        "city": "Gujranwala",
+        "roll no": "Stf-242",
+        "major": "Chemical Engineering",
+        "gpa": 3.4
+    },
+    "1720100112233": {
+        "name": "Sobia Khan",
+        "age": 18,
+        "gender": "Female",
+        "city": "Peshawar",
+        "roll no": "Stf-353",
+        "major": "Pharmacy",
+        "gpa": 3.8
+    },
+    "3620133445566": {
+        "name": "Shoaib Akhtar",
+        "age": 21,
+        "gender": "Male",
+        "city": "Multan",
+        "roll no": "Stf-464",
+        "major": "Physical Education",
+        "gpa": 2.6
+    },
+    "4110166778899": {
+        "name": "Hania Aamir",
+        "age": 19,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "roll no": "Stf-575",
+        "major": "Software Engineering",
+        "gpa": 3.6
+    },
+    "6110399001122": {
+        "name": "Ibrahim Ali",
+        "age": 20,
+        "gender": "Male",
+        "city": "Islamabad",
+        "roll no": "Stf-686",
+        "major": "Artificial Intelligence",
+        "gpa": 3.9
+    },
+    "5420122334455": {
+        "name": "Bushra Ansari",
+        "age": 18,
+        "gender": "Female",
+        "city": "Quetta",
+        "roll no": "Stf-797",
+        "major": "Linguistics",
+        "gpa": 3.5
+    },
+    "3120155667788": {
+        "name": "Kamran Akmal",
+        "age": 22,
+        "gender": "Male",
+        "city": "Bahawalpur",
+        "roll no": "Stf-808",
+        "major": "Commerce",
+        "gpa": 2.9
+    },
+    "3810188990011": {
+        "name": "Mawra Hocane",
+        "age": 19,
+        "gender": "Female",
+        "city": "Sargodha",
+        "roll no": "Stf-919",
+        "major": "Law",
+        "gpa": 3.7
+    },
+    "3440111223344": {
+        "name": "Imran Nazir",
+        "age": 20,
+        "gender": "Male",
+        "city": "Sialkot",
+        "roll no": "Stf-141",
+        "major": "Supply Chain Management",
+        "gpa": 3.1
+    },
+    "4510144556677": {
+        "name": "Urwa Hocane",
+        "age": 18,
+        "gender": "Female",
+        "city": "Sukkur",
+        "roll no": "Stf-252",
+        "major": "Sociology",
+        "gpa": 3.4
+    },
+    "4330177889900": {
+        "name": "Saeed Ajmal",
+        "age": 21,
+        "gender": "Male",
+        "city": "Larkana",
+        "roll no": "Stf-363",
+        "major": "Agriculture",
+        "gpa": 3.0
+    },
+    "3520300112233": {
+        "name": "Sajal Aly",
+        "age": 19,
+        "gender": "Female",
+        "city": "Lahore",
+        "roll no": "Stf-474",
+        "major": "Biochemistry",
+        "gpa": 3.9
+    },
+    "4230133445566": {
+        "name": "Feroze Khan",
+        "age": 20,
+        "gender": "Male",
+        "city": "Karachi",
+        "roll no": "Stf-585",
+        "major": "Business Analytics",
+        "gpa": 3.3
+    },
+    "3330166778899": {
+        "name": "Syra Yousuf",
+        "age": 18,
+        "gender": "Female",
+        "city": "Faisalabad",
+        "roll no": "Stf-696",
+        "major": "Graphic Design",
+        "gpa": 3.8
+    },
+    "3730199001122": {
+        "name": "Sheheryar Munawar",
+        "age": 22,
+        "gender": "Male",
+        "city": "Rawalpindi",
+        "roll no": "Stf-707",
+        "major": "Aerospace Engineering",
+        "gpa": 3.5
+    },
+    "3410222334455": {
+        "name": "Aima Baig",
+        "age": 19,
+        "gender": "Female",
+        "city": "Gujranwala",
+        "roll no": "Stf-818",
+        "major": "Mass Communication",
+        "gpa": 3.2
+    },
+    "1730255667788": {
+        "name": "Javed Miandad",
+        "age": 20,
+        "gender": "Male",
+        "city": "Peshawar",
+        "roll no": "Stf-929",
+        "major": "History",
+        "gpa": 2.8
+    },
+    "3640188990011": {
+        "name": "Iqra Aziz",
+        "age": 18,
+        "gender": "Female",
+        "city": "Multan",
+        "roll no": "Stf-161",
+        "major": "Psychology",
+        "gpa": 3.7
+    },
+    "4140111223344": {
+        "name": "Asim Azhar",
+        "age": 21,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "roll no": "Stf-272",
+        "major": "Media Studies",
+        "gpa": 3.1
+    },
+    "6110444556677": {
+        "name": "Zara Noor Abbas",
+        "age": 19,
+        "gender": "Female",
+        "city": "Islamabad",
+        "roll no": "Stf-383",
+        "major": "Political Science",
+        "gpa": 3.6
+    },
+    "5410177889900": {
+        "name": "Younis Khan",
+        "age": 20,
+        "gender": "Male",
+        "city": "Quetta",
+        "roll no": "Stf-494",
+        "major": "Geophysics",
+        "gpa": 3.3
+    },
+    "3130100112233": {
+        "name": "Kubra Khan",
+        "age": 18,
+        "gender": "Female",
+        "city": "Bahawalpur",
+        "roll no": "Stf-505",
+        "major": "Nutrition",
+        "gpa": 3.9
+    },
+    "3820133445566": {
+        "name": "Misbah Ul Haq",
+        "age": 22,
+        "gender": "Male",
+        "city": "Sargodha",
+        "roll no": "Stf-616",
+        "major": "Management",
+        "gpa": 3.4
+    },
+    "3450266778899": {
+        "name": "Maya Ali",
+        "age": 19,
+        "gender": "Female",
+        "city": "Sialkot",
+        "roll no": "Stf-727",
+        "major": "Fashion Marketing",
+        "gpa": 3.5
+    },
+    "4530199001122": {
+        "name": "Aaqib Javed",
+        "age": 20,
+        "gender": "Male",
+        "city": "Sukkur",
+        "roll no": "Stf-838",
+        "major": "Civil Engineering",
+        "gpa": 2.9
+    },
+    "4320222334455": {
+        "name": "Sanam Chaudhry",
+        "age": 18,
+        "gender": "Female",
+        "city": "Larkana",
+        "roll no": "Stf-949",
+        "major": "Education",
+        "gpa": 3.2
+    },
+    "3520155443322": {
+        "name": "Bilal Abbas",
+        "age": 21,
+        "gender": "Male",
+        "city": "Lahore",
+        "roll no": "Stf-171",
+        "major": "Computer Science",
+        "gpa": 3.8
+    },
+    "4210188776655": {
+        "name": "Ayeza Khan",
+        "age": 19,
+        "gender": "Female",
+        "city": "Karachi",
+        "roll no": "Stf-282",
+        "major": "Architecture",
+        "gpa": 3.9
+    },
+    "3310111998877": {
+        "name": "Azhar Ali",
+        "age": 20,
+        "gender": "Male",
+        "city": "Faisalabad",
+        "roll no": "Stf-393",
+        "major": "Software Engineering",
+        "gpa": 3.0
+    },
+    "3740144332211": {
+        "name": "Mansha Pasha",
+        "age": 18,
+        "gender": "Female",
+        "city": "Rawalpindi",
+        "roll no": "Stf-404",
+        "major": "Sociology",
+        "gpa": 3.4
+    },
+    "3410177665544": {
+        "name": "Wahab Riaz",
+        "age": 22,
+        "gender": "Male",
+        "city": "Gujranwala",
+        "roll no": "Stf-515",
+        "major": "Environmental Engineering",
+        "gpa": 2.8
+    },
+    "1730100998877": {
+        "name": "Neelam Muneer",
+        "age": 19,
+        "gender": "Female",
+        "city": "Peshawar",
+        "roll no": "Stf-626",
+        "major": "Microbiology",
+        "gpa": 3.7
+    },
+    "3630133221100": {
+        "name": "Inzamam Ul Haq",
+        "age": 20,
+        "gender": "Male",
+        "city": "Multan",
+        "roll no": "Stf-737",
+        "major": "Commerce",
+        "gpa": 3.1
+    },
+    "4130166554433": {
+        "name": "Sanam Baloch",
+        "age": 18,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "roll no": "Stf-848",
+        "major": "Journalism",
+        "gpa": 3.8
+    },
+    "6110199887766": {
+        "name": "Usman Mukhtar",
+        "age": 21,
+        "gender": "Male",
+        "city": "Islamabad",
+        "roll no": "Stf-959",
+        "major": "Filmmaking",
+        "gpa": 3.3
+    },
+    "5440122110099": {
+        "name": "Komal Meer",
+        "age": 19,
+        "gender": "Female",
+        "city": "Quetta",
+        "roll no": "Stf-181",
+        "major": "International Relations",
+        "gpa": 3.5
+    },
+    "3120155443322": {
+        "name": "Mohammad Amir",
+        "age": 20,
+        "gender": "Male",
+        "city": "Bahawalpur",
+        "roll no": "Stf-292",
+        "major": "Sports Management",
+        "gpa": 2.9
+    },
+    "3840188776655": {
+        "name": "Minal Khan",
+        "age": 18,
+        "gender": "Female",
+        "city": "Sargodha",
+        "roll no": "Stf-303",
+        "major": "Biotechnology",
+        "gpa": 3.6
+    },
+    "3460111998877": {
+        "name": "Shoaib Malik",
+        "age": 22,
+        "gender": "Male",
+        "city": "Sialkot",
+        "roll no": "Stf-414",
+        "major": "Business Administration",
+        "gpa": 3.2
+    },
+    "4550144332211": {
+        "name": "Aiman Khan",
+        "age": 19,
+        "gender": "Female",
+        "city": "Sukkur",
+        "roll no": "Stf-525",
+        "major": "Economics",
+        "gpa": 3.7
+    },
+    "4320177665544": {
+        "name": "Shahnawaz Dahani",
+        "age": 20,
+        "gender": "Male",
+        "city": "Larkana",
+        "roll no": "Stf-636",
+        "major": "Geology",
+        "gpa": 3.0
+    },
+    "3520100998877": {
+        "name": "Sarah Khan",
+        "age": 18,
+        "gender": "Female",
+        "city": "Lahore",
+        "roll no": "Stf-747",
+        "major": "Botany",
+        "gpa": 3.8
+    },
+    "4210133221100": {
+        "name": "Ahad Raza Mir",
+        "age": 21,
+        "gender": "Male",
+        "city": "Karachi",
+        "roll no": "Stf-858",
+        "major": "Performing Arts",
+        "gpa": 3.4
+    },
+    "3310166554433": {
+        "name": "Hiba Bukhari",
+        "age": 19,
+        "gender": "Female",
+        "city": "Faisalabad",
+        "roll no": "Stf-969",
+        "major": "Chemistry",
+        "gpa": 3.5
+    },
+    "3740199887766": {
+        "name": "Imad Wasim",
+        "age": 20,
+        "gender": "Male",
+        "city": "Rawalpindi",
+        "roll no": "Stf-191",
+        "major": "Accounting",
+        "gpa": 3.1
+    },
+    "3410122110099": {
+        "name": "Madiha Imam",
+        "age": 18,
+        "gender": "Female",
+        "city": "Gujranwala",
+        "roll no": "Stf-202",
+        "major": "English Literature",
+        "gpa": 3.9
+    },
+    "1730155443322": {
+        "name": "Yasir Shah",
+        "age": 22,
+        "gender": "Male",
+        "city": "Peshawar",
+        "roll no": "Stf-313",
+        "major": "Statistics",
+        "gpa": 2.7
+    },
+    "3630188776655": {
+        "name": "Ramsha Khan",
+        "age": 19,
+        "gender": "Female",
+        "city": "Multan",
+        "roll no": "Stf-424",
+        "major": "Data Science",
+        "gpa": 3.6
+    },
+    "4130111998877": {
+        "name": "Shadab Khan",
+        "age": 20,
+        "gender": "Male",
+        "city": "Hyderabad",
+        "roll no": "Stf-535",
+        "major": "Marketing",
+        "gpa": 3.3
+    },
+    "6110144332211": {
+        "name": "Yumna Zaidi",
+        "age": 18,
+        "gender": "Female",
+        "city": "Islamabad",
+        "roll no": "Stf-646",
+        "major": "Psychology",
+        "gpa": 3.8
+    },
+    "5440177665544": {
+        "name": "Naseem Shah",
+        "age": 21,
+        "gender": "Male",
+        "city": "Quetta",
+        "roll no": "Stf-757",
+        "major": "Mechanical Engineering",
+        "gpa": 3.2
+    },
+    "3120100998877": {
+        "name": "Srha Asghar",
+        "age": 19,
+        "gender": "Female",
+        "city": "Bahawalpur",
+        "roll no": "Stf-868",
+        "major": "Microbiology",
+        "gpa": 3.7
+    },
+    "3840133221100": {
+        "name": "Mohammad Rizwan",
+        "age": 20,
+        "gender": "Male",
+        "city": "Sargodha",
+        "roll no": "Stf-979",
+        "major": "Islamic Studies",
+        "gpa": 3.5
+    },
+    "3460166554433": {
+        "name": "Saboor Aly",
+        "age": 18,
+        "gender": "Female",
+        "city": "Sialkot",
+        "roll no": "Stf-182",
+        "major": "Fine Arts",
+        "gpa": 3.6
+    },
+    "4550199887766": {
+        "name": "Iftikhar Ahmed",
+        "age": 22,
+        "gender": "Male",
+        "city": "Sukkur",
+        "roll no": "Stf-293",
+        "major": "Agriculture",
+        "gpa": 2.9
+    },
+    "4320122110099": {
+        "name": "Sania Shamshad",
+        "age": 19,
+        "gender": "Female",
+        "city": "Larkana",
+        "roll no": "Stf-304",
+        "major": "Education",
+        "gpa": 3.3
+    },
+    "3520155998877": {
+        "name": "Babar Azam",
+        "age": 20,
+        "gender": "Male",
+        "city": "Lahore",
+        "roll no": "Stf-415",
+        "major": "Business Administration",
+        "gpa": 3.9
+    },
+    "4210188332211": {
+        "name": "Mehak Ali",
+        "age": 18,
+        "gender": "Female",
+        "city": "Karachi",
+        "roll no": "Stf-526",
+        "major": "Musicology",
+        "gpa": 3.4
+    },
+    "3310111665544": {
+        "name": "Fakhar Zaman",
+        "age": 21,
+        "gender": "Male",
+        "city": "Faisalabad",
+        "roll no": "Stf-637",
+        "major": "Electrical Engineering",
+        "gpa": 3.1
+    },
+    "3740144998877": {
+        "name": "Alizeh Shah",
+        "age": 19,
+        "gender": "Female",
+        "city": "Rawalpindi",
+        "roll no": "Stf-748",
+        "major": "Mass Communication",
+        "gpa": 3.5
+    },
+    "3410177332211": {
+        "name": "Shaheen Afridi",
+        "age": 20,
+        "gender": "Male",
+        "city": "Gujranwala",
+        "roll no": "Stf-859",
+        "major": "Sports Science",
+        "gpa": 3.0
+    },
+    "1730100665544": {
+        "name": "Dur E Fishan",
+        "age": 18,
+        "gender": "Female",
+        "city": "Peshawar",
+        "roll no": "Stf-970",
+        "major": "Law",
+        "gpa": 3.8
+    },
+    "3630133998877": {
+        "name": "Hasan Ali",
+        "age": 22,
+        "gender": "Male",
+        "city": "Multan",
+        "roll no": "Stf-193",
+        "major": "Civil Engineering",
+        "gpa": 2.8
+    },
+    "4130166332211": {
+        "name": "Zubab Rana",
+        "age": 19,
+        "gender": "Female",
+        "city": "Hyderabad",
+        "roll no": "Stf-205",
+        "major": "Psychology",
+        "gpa": 3.6
+    },
+    "6110199665544": {
+        "name": "Haroon Shahid",
+        "age": 20,
+        "gender": "Male",
+        "city": "Islamabad",
+        "roll no": "Stf-316",
+        "major": "Software Engineering",
+        "gpa": 3.3
+    },
+    "5440122998877": {
+        "name": "Yashma Gill",
+        "age": 18,
+        "gender": "Female",
+        "city": "Quetta",
+        "roll no": "Stf-427",
+        "major": "Neuroscience",
+        "gpa": 3.7
+    }
+}
